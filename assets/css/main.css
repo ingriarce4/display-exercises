@@ -1,0 +1,155 @@
+body {
+font-family: 'Josefin Sans', sans-serif;
+font-size: 20px;
+width: 100%;
+}
+/*primer html*/
+.uno1{
+	display: block;
+	width: 50%;
+	margin: auto;
+	padding: 100px;
+}
+.uno {
+width:700px;
+height: 80px;
+background-color: #f7ff07;
+padding: 10px 0 30px 10px;
+}
+.dos {
+width:700px;
+height: 80px;
+background-color: #f706af;
+padding: 10px 0 30px 10px;
+}
+.tres {
+width:700px;
+height: 80px;
+background-color: #f7ff07;
+padding: 10px 0 30px 10px;
+}
+
+/*segundo html*/
+.dos2{
+	display: block;
+	width: 50%;
+	margin: auto;
+	padding: 100px;
+}
+.two1 {
+	background-color: red;
+	margin:auto;
+	padding: 10px 0 40px 10px;
+	width:700px;
+    height: 80px;
+}
+/*tercer html*/
+.tres3{
+	display: inline;
+	text-align: center;
+	margin-top: 30px;
+}
+.one {
+	background-color: yellow;
+	display: inherit;
+	padding: 10px;
+}
+
+.two {
+	background-color: red;
+	display: inherit;
+	padding: 10px;
+}
+
+.thre {
+	background-color: yellow;
+	display: inherit;
+	padding: 10px;
+}
+/*cuarto html*/
+.cuatro4 {
+	display: inline-block;
+}
+
+.alfa {
+	background-color: yellow;
+	display: inherit;
+	margin:5px;
+	width: 200px;
+	padding: 10px 0 40px 10px;
+}
+
+.beta {
+	background-color: red;
+	display: inherit;
+	margin:5px;
+	width: 200px;
+	padding: 10px 0 40px 10px;
+}
+
+.gama {
+	background-color: yellow;
+	display: inherit;
+	margin:5px;
+	width: 200px;
+	padding: 10px 0 40px 10px;
+}
+/*quinto html*/
+
+.cinco5 {
+	width: 80px;
+	height: 80px;
+	background-color: #0998e0;
+	border: 1px #f7cE2d;
+}
+
+.caja1{
+	width: 266px;
+	height: 82px;
+	background-color: #5ae06b;
+	padding: 10px;
+}
+
+.caj {
+	width: 80px;
+	height: 80px;
+	background-color: #0998e0;
+	border: 1px #105ff7;
+	display: inline-block;
+	padding: 0;
+	margin: 0;
+}
+
+.centro {
+	margin: 0px 4px 0px 4px;
+}
+
+.caja2{
+	width: 80px;
+	height: 80px;
+	background-color: #0998e0;
+	border: 1px #105ff7;
+	display: inline-block;
+	margin: 10px 4px 10px 0;
+	padding: 0px;
+}
+
+.caja3 {
+	width: 80px;
+	height: 80px;
+	background-color: #0998e0;
+	border: 1px #105ff7;
+	margin: 0;
+}
+/*unión de todos*/
+a {
+	background-color: #1297f7
+	color: white;
+	width: 100px;
+	text-decoration: none;
+	padding: 20px 40px;
+	margin-top: 20px;
+}
+a:hover {
+	background-color: #1ef793;
+}
